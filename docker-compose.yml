@@ -1,0 +1,7 @@
+version: "3.5"
+
+services:
+  nasareact:
+    image: nasa-react
+    ports:
+      - 80:80
